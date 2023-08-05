@@ -1,0 +1,84 @@
+#logo{
+    width: 120px;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+.buy-btn{
+    background-image: linear-gradient(rgb(88, 87, 87), rgb(0, 0, 0));
+    border: none;
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 7px 15px;
+    cursor: pointer;
+}
+
+.txt{
+    color: rgb(100, 99, 98);
+}
+
+.see{
+    color: orange;
+}
+
+.underline{
+    width: 100px;
+    height: 8px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right,  #ffff00, #ff8206);
+}
+
+.box {
+    width: 100px;
+    margin: auto;
+    padding-bottom: 5px;
+}
+
+
+.dbox{
+    box-sizing: 50%;
+    width: 100%;
+    box-shadow: 10px 10px 10px rgb(161, 161, 161);
+    border-radius: 5px;
+    height: 60%;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    padding-left: 10px;
+}
+
+.contact{
+    box-sizing: 100%;
+    box-shadow: 10px 10px 10px rgb(161, 161, 161);
+    border-radius: 5px;
+    height: 60%;
+    padding: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 2px;
+}
+
+.frm{
+    box-sizing: 100%;
+    border-radius: 5px;
+    height: 60%;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 2px;
+    width: 50%;
+}
+
+.submit{
+    margin-top: 10px;
+}
+
+.order{
+    width: 500px;
+}
+
+footer{
+    text-align: center;
+}
